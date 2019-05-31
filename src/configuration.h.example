@@ -1,0 +1,4 @@
+// Wifi: SSID and password
+const char* WIFI_SSID = "YOUR-SSID";
+const char* WIFI_PASSWORD = "YOUR-PASS";
+const char* OTA_PASSWORD_HASH = "YOUR-OTA-HASH";
